@@ -18,3 +18,6 @@ Basic on Kubernetes
 * Cluster creation
 * Manage Cluster
 * Grafana
+* Auto Rollback
+* Auto Healing
+* Kube director
